@@ -1,3 +1,7 @@
+# Monsters Rolodex
+
+This is a simple CRA to help go over some basic React.js concepts. It is based on the [Udemy Course by ZTM](https://www.udemy.com/course/complete-react-developer-zero-to-mastery)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
