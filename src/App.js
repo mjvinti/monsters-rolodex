@@ -41,9 +41,7 @@ class App extends Component {
           placeholder="search monsters"
           type="search"
         />
-        {filteredMonsters.map((monster) => (
-          <CardList key={monster.id} />
-        ))}
+        <CardList monsters={filteredMonsters} />
       </div>
     );
   }
